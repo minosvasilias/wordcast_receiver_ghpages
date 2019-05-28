@@ -1,0 +1,14 @@
+img{
+  position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 600px;
+   height: 134px; /*65px;*/
+   margin-top: -67px;/*-32.5px; /* Half the height */
+   margin-left: -300px;
+   z-index: -1;
+}
+.root{
+  z-index: 99;
+  background: #4f444b;
+}
