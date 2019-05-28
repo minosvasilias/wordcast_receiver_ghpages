@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wordcast_receiver_ghpages/static/css/main.8b42e3fd.chunk.css",
-    "main.js": "/wordcast_receiver_ghpages/static/js/main.bab047ec.chunk.js",
-    "main.js.map": "/wordcast_receiver_ghpages/static/js/main.bab047ec.chunk.js.map",
+    "main.js": "/wordcast_receiver_ghpages/static/js/main.9d42a512.chunk.js",
+    "main.js.map": "/wordcast_receiver_ghpages/static/js/main.9d42a512.chunk.js.map",
     "runtime~main.js": "/wordcast_receiver_ghpages/static/js/runtime~main.0569e602.js",
     "runtime~main.js.map": "/wordcast_receiver_ghpages/static/js/runtime~main.0569e602.js.map",
     "static/js/2.baa90864.chunk.js": "/wordcast_receiver_ghpages/static/js/2.baa90864.chunk.js",
     "static/js/2.baa90864.chunk.js.map": "/wordcast_receiver_ghpages/static/js/2.baa90864.chunk.js.map",
     "index.html": "/wordcast_receiver_ghpages/index.html",
-    "precache-manifest.81055e34dd5b27f0f6788abb0a47f3eb.js": "/wordcast_receiver_ghpages/precache-manifest.81055e34dd5b27f0f6788abb0a47f3eb.js",
+    "precache-manifest.79d54357fbde9e4d9014c13bcaad57b8.js": "/wordcast_receiver_ghpages/precache-manifest.79d54357fbde9e4d9014c13bcaad57b8.js",
     "service-worker.js": "/wordcast_receiver_ghpages/service-worker.js",
     "static/css/main.8b42e3fd.chunk.css.map": "/wordcast_receiver_ghpages/static/css/main.8b42e3fd.chunk.css.map",
     "static/media/wordcastlogo_white.svg": "/wordcast_receiver_ghpages/static/media/wordcastlogo_white.c4dcc4ed.svg"
