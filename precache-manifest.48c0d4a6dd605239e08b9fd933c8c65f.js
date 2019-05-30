@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c06e0fbf96b0663ad20a5f1a1c1597f",
+    "revision": "d4edc92f792292b123945335574f2ed9",
     "url": "/wordcast_receiver_ghpages/index.html"
   },
   {
-    "revision": "9209e95fb347f60aae95",
-    "url": "/wordcast_receiver_ghpages/static/css/main.4270107c.chunk.css"
+    "revision": "ba8b90c5f97551369f01",
+    "url": "/wordcast_receiver_ghpages/static/css/main.5a82fe66.chunk.css"
   },
   {
     "revision": "fff7cbf617be540e9c3d",
     "url": "/wordcast_receiver_ghpages/static/js/2.53416aac.chunk.js"
   },
   {
-    "revision": "9209e95fb347f60aae95",
-    "url": "/wordcast_receiver_ghpages/static/js/main.22e6d657.chunk.js"
+    "revision": "ba8b90c5f97551369f01",
+    "url": "/wordcast_receiver_ghpages/static/js/main.80112867.chunk.js"
   },
   {
     "revision": "ca247b8d9545193dea07",
