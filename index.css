@@ -8,6 +8,29 @@
    margin-left: -300px;
    z-index: -1;
 }
+#privacylogo{
+  position: absolute;
+   top: 40px;
+   left: 50%;
+   width: 300px;
+   height: 67px; /*65px;*/
+   margin-left: -150px;
+   z-index: -1;
+}
+#body{
+    
+    text-align: center;
+}
+#content{
+    max-width: 600px;
+    margin: 20px;
+    margin-top: 120px;
+    color: white;
+    display: inline-block;
+    text-align: left;
+}
+
+
 .root{
   z-index: 99;
   background: #4f444b;
