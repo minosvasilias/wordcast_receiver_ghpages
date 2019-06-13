@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Wordcast",
+  "name": "The word game designed for Chromecast",
   "icons": [
     {
       "src": "favicon.ico",
