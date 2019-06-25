@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="stylesheet" href="index.css">
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <!--<div id="content">Nothing here yet. Waiting for Cast....</div>-->
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Wordcast Rules</title>
+  </head>
+  <body id="body" bgcolor="#4f444b"><!--#248775-->
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+        <img id="privacylogo" src="wordcastlogo_white.svg" />
+
+      <div id="content"><p><strong>Rules</strong></p>
+        <p>Each player is assigned 7 letters from the letter pool. The goal of the game is to form words on the board by using the letter available in your hand as well as those already placed on the board. You may only spell words left to right or top to bottom. You may also only place letters in one straight line that is connected either horizontally or vertically (not diagonally) to the already existing letters. The exception being the very first turn, where the center square of the board must be used.</p>
+      <p>Each letter has a score attached to it that depends on the language you play in and how commonly used the letter is in that language. Once you have placed a word and end your turn, all scores are added PER WORD you formed. You may form more than one word per turn as long as you adhere to the placement rules stated above.</p>
+    <p>Your score will then be multiplied based on the special squares you may have placed your word on. There are LETTER MULTIPLIERS and WORD MULTIPLIERS.</p>
+  <p>LETTER MULTIPLIERS multiply only the score of the single letter placed on them by 2, 3 or 4.</p>
+  <p> WORD MULTIPLIERS multiply the score of the entire word. If your word covers more than one word multiplier, those multipliers are applied one after another. For example, if your word covers a 2x word multiplier and a 3x word multiplier, your word score will first be doubled and the resulting score then tripled, effectively multiplying your word score by 6. Word multipliers are always applied AFTER letter multipliers.</p>
+  <br/><p>Once your turn has ended, you will draw new letters from the letter pool until your hand is holding 7 letters again or the letter pool is emptied.</p>
+  <p>Instead of placing letters, you may spend your turn SWAPPING letters in your hand. You may swap any number of letters in your hand and will draw replacement letters from the letter pool. Doing this ends your turn.</p>
+  <p>Using a special JOKER LETTER you may choose to place any letter available in the selected language. However, these JOKER LETTERS will always count as zero points. Placing them on word multipliers however will still apply the word multiplier. </p>
+  <p>Using ALL SEVEN letters in your hand in a SINGLE TURN you will be awarded 50 bonus points. Emptying your hand at the end of the game when it holds less than seven letters WILL NOT award you such bonus score.</p>
+  <br/><p>The game can end in two ways:</p>
+  <p>- The letter pool has been emptied AND a player uses the very last letter remaining in his hand. The game ends immediately.</p>
+  <p>- A total of SIX TURNS pass without any player scoring any points. The game ends immediately after the sixth scoreless turn.</p>
+  <p>Once the game has ended, all players who still have letters remaining in their hands will have the SUM OF THEIR REMAINING LETTERS SUBTRACTED from their score</p>
+  <p>The player with the highest score wins.<p>
+  </div>
+
+  </body>
+</html>
