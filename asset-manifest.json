@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.a94fabf7.chunk.css",
-    "main.js": "/static/js/main.fee6939f.chunk.js",
-    "main.js.map": "/static/js/main.fee6939f.chunk.js.map",
+    "main.js": "/static/js/main.a0c67dfa.chunk.js",
+    "main.js.map": "/static/js/main.a0c67dfa.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.78dccff5.chunk.js": "/static/js/2.78dccff5.chunk.js",
     "static/js/2.78dccff5.chunk.js.map": "/static/js/2.78dccff5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e919a38ab871548dfa1931d690b6ef0e.js": "/precache-manifest.e919a38ab871548dfa1931d690b6ef0e.js",
+    "precache-manifest.9a3bb701f4836205a1d2aa8207a0fe2a.js": "/precache-manifest.9a3bb701f4836205a1d2aa8207a0fe2a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.a94fabf7.chunk.css.map": "/static/css/main.a94fabf7.chunk.css.map",
     "static/media/wordcastlogo_white.svg": "/static/media/wordcastlogo_white.c4dcc4ed.svg"
